@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Project</title>
-    <link>https://example.org/</link>
+    <link>https://Suvalkietiz.github.io/</link>
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Sep 2026 17:53:12 +0300</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Suvalkietiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>https://Suvalkietiz.github.io/about/</link>
       <pubDate>Wed, 23 Sep 2026 17:53:12 +0300</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>https://Suvalkietiz.github.io/about/</guid>
       <description>&lt;p&gt;This is my personal webiste :PPPPP See my blogs posted on main page :)&lt;/p&gt;</description>
     </item>
     <item>
       <title>My first posts</title>
-      <link>https://example.org/posts/mypage/</link>
+      <link>https://Suvalkietiz.github.io/posts/mypage/</link>
       <pubDate>Wed, 23 Sep 2026 17:12:13 +0300</pubDate>
-      <guid>https://example.org/posts/mypage/</guid>
+      <guid>https://Suvalkietiz.github.io/posts/mypage/</guid>
       <description>&lt;p&gt;HIHIHIHIHII! First post boj&lt;/p&gt;</description>
     </item>
   </channel>
